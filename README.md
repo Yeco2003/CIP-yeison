@@ -32,4 +32,14 @@ Ejemplo: un sistema de inventarios que sugiere la cantidad optms de productos qu
 6. Descriptiva
 7. Diagnóstica
 
+
+A: 4+8/2-3 = 5
+
+B: 19+(22-8x2)-2 = 23
+
+C: {5 - 4 + 2 ( 2 - 1 ) + 9 } = 12 
+
+D: {2 + 6 ( 2 x 5 ) - 10 / 2 } = 75 
+
+E: {20 + [ 5 - 60 / 3 + 2 ( 4 - 3 )]} = 37
    
