@@ -23,3 +23,13 @@ Ejemplo: un modelo de predicción, que estima las ventas futuras de un producto,
 Analítica prescriptiva:
 Es un análisis completo, combinando las anteriores para mostrar la forma de ejecutar una estrategia de negocio, para recomendar acciones para optimizar los resultados
 Ejemplo: un sistema de inventarios que sugiere la cantidad optms de productos que se deberían pedir 
+
+1. Diagnóstica
+2. Predictiva
+3. Predictiva
+4. Prescriptiva
+5. Diagnóstica
+6. Descriptiva
+7. Diagnóstica
+
+   
