@@ -24,7 +24,7 @@ Analítica prescriptiva:
 Es un análisis completo, combinando las anteriores para mostrar la forma de ejecutar una estrategia de negocio, para recomendar acciones para optimizar los resultados
 Ejemplo: un sistema de inventarios que sugiere la cantidad optms de productos que se deberían pedir 
 
-1. Diagnóstica
+1. Descriptiva 
 2. Predictiva
 3. Predictiva
 4. Prescriptiva
