@@ -1,0 +1,14 @@
+def nombre_persona (nombre,edad):
+  vocales = {'A', 'E', 'I', 'O', 'U'}
+  letra1 = nombre[0].upper()
+  if edad < 18 and letra1 in vocales:
+    return "perteneces al grupo numero 1 "
+  elif edad < 18 and letra1 not in vocales:
+    return "perteneces al grupo numero 2 "
+  else:
+    return "perteneces al grupo numero 3 "
+
+nombre = input("Ingrese su nombre: ")
+edad = int(input("Ingrese su edad: "))
+grupo = nombre_persona(nombre, edad)
+print(f"tu nombre es {nombre} tienes {edad} años y {grupo}")
