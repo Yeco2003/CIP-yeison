@@ -17,3 +17,4 @@ arraysuma=array_multidimencional3.sum() # la suma de todos los numeros de la mat
 arraymaxaxis=array_multidimencional3.max(axis=0) # los numeros mayores de las columnas - filas
 arrayminaxis=array_multidimencional3.min(axis=1) # los numeros menores de las colomnas - filas
 arraysumaxis=array_multidimencional3.sum(axis=0) # la suma de los numeros de las columnas - filas 
+array_multidimencional3 [2].max()# el numero maximo de la columna 2, se puede hacer con min y sum
